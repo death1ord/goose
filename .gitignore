@@ -1,0 +1,5 @@
+/goose
+*.test
+*.out
+.DS_Store
+.goose/
